@@ -6,6 +6,10 @@
   "scripts": {
     "start": "node index.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dogukankutluay/whatsapp-node-api.git"
+  },
   "keywords": [
     "whatsapp-qr",
     "whatsapp-web",
@@ -14,6 +18,8 @@
   ],
   "author": "Doğukan Kutluay",
   "license": "ISC",
+  "homepage": "https://github.com/dogukankutluay/whatsapp-node-api#readme",
+
   "dependencies": {
     "axios": "^0.21.4",
     "body-parser": "^1.19.2",
