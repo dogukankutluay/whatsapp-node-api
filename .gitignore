@@ -1,0 +1,5 @@
+node_modules
+session.json
+temp
+routes/last.qr
+.wwebjs_auth/
